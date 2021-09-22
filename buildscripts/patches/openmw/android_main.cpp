@@ -106,3 +106,4 @@ extern "C" void Java_org_libsdl_app_SDLActivity_omwSurfaceRecreated(JNIEnv *env,
     if (win)
         win->windowVisibilityChange(true);
 }
+
